@@ -36,4 +36,4 @@
 
 # 🐍 Watch My Contributions Grow!
 
-![Snake animation](https://github.com/abhisekkundu-DS/abhisekkundu-DS/blob/main/snake.yml)
+![Snake animation](https://github.com/abhisekkundu-DS/New-Workflow/blob/main/snake.yml)
