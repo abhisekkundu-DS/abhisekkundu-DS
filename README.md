@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **abhisekkundu86@gmail.com**
 
+![Coding Anime Illustration](https://github.com/abhisekkundu-DS/abhisekkundu-DS/blob/main/_77967019-4cfd-4a2c-abdf-57535c738e62.jpg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhisek-kundu-aa85b1243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisek kundu" height="30" width="40" /></a>
