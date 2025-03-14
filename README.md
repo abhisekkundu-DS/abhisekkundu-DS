@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhisekkundu86@gmail.com**
 
-![Coding Anime Illustration](https://github.com/abhisekkundu-DS/abhisekkundu-DS/blob/main/_77967019-4cfd-4a2c-abdf-57535c738e62.jpg)
+![Coding Anime Illustration](https://github.com/abhisekkundu-DS/abhisekkundu-DS/blob/main/_77967019-4cfd-4a2c-abdf-57535c738e62-removebg-preview.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
