@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhisek Kundu</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<h3 align="center"># 👋 Nice to Meet You!
+
 
 <p align="center">
   <strong>─────────── ✨ Nice to Meet You! ✨ ───────────</strong>
