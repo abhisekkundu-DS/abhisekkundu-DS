@@ -46,6 +46,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisekkundu-ds&" alt="abhisekkundu-ds" /></p>
 
 
-# 🐍 Watch My Contributions Grow!
 
-![Snake animation](https://github.com/abhisekkundu-DS/New-Workflow/blob/main/snake.yml)
